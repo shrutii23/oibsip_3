@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string-array name="questions">
+        <item>What is the capital of France?</item>
+        <item>Who painted the Mona Lisa?</item>
+        <item>What is the largest planet in our solar system?</item>
+        <item>Who wrote the play Romeo and Juliet?</item>
+        <item>Which country is known for inventing pizza?</item>
+    </string-array>
+
+    <string-array name="options1">
+        <item>Paris</item>
+        <item>Michelangelo</item>
+        <item>Jupiter</item>
+        <item>William Shakespeare</item>
+        <item>Italy</item>
+    </string-array>
+
+    <string-array name="options2">
+        <item>Rome</item>
+        <item>Picasso</item>
+        <item>Saturn</item>
+        <item>Christopher Marlowe</item>
+        <item>Spain</item>
+    </string-array>
+
+    <string-array name="options3">
+        <item>London</item>
+        <item>Leonardo da Vinci</item>
+        <item>Neptune</item>
+        <item>George Bernard Shaw</item>
+        <item>United States</item>
+    </string-array>
+
+    <string-array name="options4">
+        <item>Berlin</item>
+        <item>Raphael</item>
+        <item>Mars</item>
+        <item>Voltaire</item>
+        <item>China</item>
+    </string-array>
+
+    <string-array name="correct_answers">
+        <item>Paris</item>
+        <item>Leonardo da Vinci</item>
+        <item>Jupiter</item>
+        <item>William Shakespeare</item>
+        <item>Italy</item>
+    </string-array>
+</resources>
